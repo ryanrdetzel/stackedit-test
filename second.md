@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="second">Second</h1>
 <ul>
 <li>one</li>
